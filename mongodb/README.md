@@ -31,5 +31,5 @@ To build MongoDB containers for Weflex apps, we use the official [mongo][1] repo
 
 [1]: https://hub.docker.com/_/mongo/
 [2]: https://github.com/weflex/docker-images/blob/master/mongodb/docker-compose.yml
-[3]: https://github/weflex/gateway-v2
+[3]: https://github.com/weflex/gateway-v2
 [4]: https://docs.mongodb.com/manual/reference/connection-string/#standard-connection-string-format
